@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">iaservice</string>
+    <string name="traductor">traductor</string>
+    <string name="voz">voz</string>
+    <string name="compartir">compartir</string>
+    <string name="escuchar">escuchar</string>
+    <string name="menu">menu</string>
+    <string name="oral">oral</string>
+    <string name="escrito">escrito</string>
+    <string name="foto">foto</string>
+    <string name="fondo">fondo</string>
+    <string name="error_intent">error_intent</string>
+    
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="play_sound">Reproducir Sonido</string>
+    <string name="Menu">Menú</string>
+    <string name="todo">TODO</string> <!-- Nuevo string para el botón de menú -->
+
+</resources>

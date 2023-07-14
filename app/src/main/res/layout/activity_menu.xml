@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".menu">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8B37CD"
+            android:orientation="vertical"
+            tools:ignore="UselessParent">
+
+            <ImageView
+                android:id="@+id/foto"
+                android:layout_width="match_parent"
+                android:layout_height="585dp"
+                android:contentDescription="@string/foto"
+                android:src="@drawable/milogo"
+                tools:ignore="ContentDescription" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/oral"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="74dp"
+                    android:background="#5A2385"
+                    android:text="@string/oral"
+                    android:textColor="#7986CB"
+                    android:textSize="30sp"
+                    tools:ignore="VisualLintButtonSize" />
+
+                <Button
+                    android:id="@+id/escrito"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#5A2385"
+                    android:text="@string/escrito"
+                    android:textColor="#7986CB"
+                    android:textSize="30sp"
+                    tools:ignore="VisualLintButtonSize" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
