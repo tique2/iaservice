@@ -1,0 +1,10 @@
+#Wed Jul 12 02:33:18 EDT 2023
+base.0=/home/princesitasofia/Documents/proyectos de software/android studio/iaservice/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/princesitasofia/Documents/proyectos de software/android studio/iaservice/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/princesitasofia/Documents/proyectos de software/android studio/iaservice/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

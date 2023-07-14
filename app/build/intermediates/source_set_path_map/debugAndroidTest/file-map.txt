@@ -1,0 +1,6 @@
+com.example.iaservice.test.app-annotation-experimental-1.3.0-0 /home/princesitasofia/.gradle/caches/transforms-3/4f735b77350aefc156737b8f9bd0fa95/transformed/annotation-experimental-1.3.0/res
+com.example.iaservice.test.app-core-1.5.0-1 /home/princesitasofia/.gradle/caches/transforms-3/7df3ea80e358b7c626734a27a40524e6/transformed/core-1.5.0/res
+com.example.iaservice.test.app-androidTest-2 /home/princesitasofia/Documents/proyectos de software/android studio/iaservice/app/build/generated/res/resValues/androidTest/debug
+com.example.iaservice.test.app-mergeDebugAndroidTestResources-3 /home/princesitasofia/Documents/proyectos de software/android studio/iaservice/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.iaservice.test.app-mergeDebugAndroidTestResources-4 /home/princesitasofia/Documents/proyectos de software/android studio/iaservice/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.iaservice.test.app-merged_res-5 /home/princesitasofia/Documents/proyectos de software/android studio/iaservice/app/build/intermediates/merged_res/debugAndroidTest

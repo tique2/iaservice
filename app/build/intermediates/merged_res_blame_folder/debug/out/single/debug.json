@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/drawable-v24_perro.png.flat",
+        "source": "com.example.iaservice.app-main-30:/drawable-v24/perro.png"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/drawable-v24_gato.png.flat",
+        "source": "com.example.iaservice.app-main-30:/drawable-v24/gato.png"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sound_perro.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sound_perro.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sound_gato.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sound_gato.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sonido_oral.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sonido_oral.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sonido_menu.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sonido_menu.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sonido_escuchar.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sonido_escuchar.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sonido_escrito.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sonido_escrito.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/layout_activity_escrito.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/layout/activity_escrito.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/drawable-v24_pajaro.png.flat",
+        "source": "com.example.iaservice.app-main-30:/drawable-v24/pajaro.png"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/drawable-v24_milogo.png.flat",
+        "source": "com.example.iaservice.app-main-30:/drawable-v24/milogo.png"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sonido_cargando.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sonido_cargando.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sound_pajaro.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sound_pajaro.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/raw_sonido_compartir.mp3.flat",
+        "source": "com.example.iaservice.app-main-30:/raw/sonido_compartir.mp3"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/layout_activity_menu.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/layout_activity_oral.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/layout/activity_oral.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iaservice.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.iaservice.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".oral">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#8B37CD"
+            android:orientation="vertical"
+            tools:ignore="ScrollViewSize,UselessParent">
+
+            <EditText
+                android:id="@+id/traductor"
+                android:layout_width="match_parent"
+                android:layout_height="491dp"
+                android:autofillHints=""
+                android:ems="10"
+                android:hint="@string/traductor"
+                android:inputType="textMultiLine"
+                android:textColorHint="#E1BEE7"
+                android:textSize="30sp"
+                tools:ignore="VisualLintTextFieldSize" />
+
+            <Button
+                android:id="@+id/voz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#5A2385"
+                android:onClick="voz"
+                android:text="@string/voz"
+                android:textSize="30sp"
+                tools:ignore="VisualLintButtonSize" />
+
+            <Button
+                android:id="@+id/compartir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#5A2385"
+                android:onClick="compartir"
+                android:text="@string/compartir"
+                android:textSize="30sp"
+                tools:ignore="VisualLintButtonSize" />
+
+            <Button
+                android:id="@+id/escuchar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#5A2385"
+                android:text="@string/escuchar"
+                android:textSize="30sp"
+                tools:ignore="VisualLintButtonSize" />
+
+            <Button
+                android:id="@+id/menu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#5A2385"
+                android:text="@string/menu"
+                android:textSize="30sp"
+                tools:ignore="VisualLintButtonSize" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
